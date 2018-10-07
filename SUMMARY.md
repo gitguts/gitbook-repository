@@ -6,5 +6,8 @@
   * [Agenda](content/agenda.md)
 * [Tworzenie repozytorium](content/init/init.md)
   * [Konfiguracja](content/init/config.md)
-  * [Weryfikacja](content/init/test.md)
-* [Obiekty](content/objects/main.md)
+  * [Weryfikacja](content/init/veryfication.md)
+* Commit
+  * [Obiekty](content/commit/objects.md)
+  * [Blob](content/commit/blob.md)
+  * [Tree](content/commit/tree.md)
