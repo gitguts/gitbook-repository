@@ -1,3 +1,8 @@
+h1#git-guts-building-repository-from-scratch,
+h3#httpssmoczyskogitbooksiogit-guts-building-repository-from-scratchcontent {
+    text-align: center;
+}
+
 .image-wrapper.README {
     max-width: 500px;
     width: 100%;
@@ -12,7 +17,9 @@
     display: block;
 }
 
-h1#git-guts-building-repository-from-scratch,
-h3#httpssmoczyskogitbooksiogit-guts-building-repository-from-scratchcontent {
-    text-align: center;
+.image-wrapper.init {
+    max-width: 500px;
+    width: 100%;
+    margin: 0.5% auto;
+    display: block;
 }
