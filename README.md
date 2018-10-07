@@ -1,3 +1,19 @@
-# My Awesome Book
+# GIT GUTS: building repository from scratch
 
-This file file serves as your book's preface, a great place to describe your book's content and ideas.
+
+
+
+
+##### ![](/assets/logo_infoshare.png)
+
+
+```js
+{
+  name:     "Łukasz Rybka",
+  email:    "infoShare Academy",
+  website:  "https://infoshareacademy.com"
+}
+```
+
+
+### https://smoczysko.gitbooks.io/git-guts-building-repository-from-scratch/content/
