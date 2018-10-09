@@ -101,7 +101,7 @@ require 'fileutils'
 ### Wygenerowanie klucza SHA1
 
 ```ruby
-blob_sha = "28fd1f6a8db1463ad03aacb1b77d331c2a0442e8"
+blob_sha = "705bb1cf59bb75a668b63eab100ce922c333340a"
 content = "100644 test.txt\0" + encode_sha(blob_sha)
 header = "tree #{content.length}\0"
 tree = header + content
