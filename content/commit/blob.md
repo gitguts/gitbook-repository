@@ -6,7 +6,7 @@ Wszystkie pliki w naszym repozytorium przechowywane są w postaci blob'ów.
 
 ##### ![](/assets/commit/blob.png)
 
-Każżdy blob ma ściśle określoną strukturę:
+Każdy blob ma ściśle określoną strukturę:
 
 Kiedy git zapisuje dane, tworzony jest specjalny obiekt zwany blob'em. Blob składa się z:
 * identyfikatora **blob**
@@ -31,7 +31,7 @@ require 'fileutils'
 content = "Test file content"
 header = "blob #{content.length}\0"
 blob = header + content
-sha1 = Digest:SHA1.hexdigest(blob)
+sha1 = Digest::SHA1.hexdigest(blob)
 ```
 
 ### Kompresja
