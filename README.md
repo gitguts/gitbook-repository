@@ -11,7 +11,8 @@
 {
   name:     "Łukasz Rybka",
   email:    "infoShare Academy",
-  website:  "https://infoshareacademy.com"
+  infoShare:  "https://infoshareacademy.com"
+  me: "http://www.dragonia.org.pl"
 }
 ```
 
