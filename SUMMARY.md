@@ -12,3 +12,5 @@
   * [Blob](content/commit/blob.md)
   * [Tree](content/commit/tree.md)
   * [Commit](content/commit/commit.md)
+  * [Refs](content/commit/refs.md)
+  * [Index](content/commit/index.md)
