@@ -16,3 +16,4 @@
   * [Index](content/commit/index.md)
 * [Modele](content/models.md)
 * [Branch](content/branch.md)
+* [Tagi](content/tags.md)
