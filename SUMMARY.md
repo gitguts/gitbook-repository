@@ -14,3 +14,4 @@
   * [Commit](content/commit/commit.md)
   * [Refs](content/commit/refs.md)
   * [Index](content/commit/index.md)
+* [Modele](content/models.md)
