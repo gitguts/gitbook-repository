@@ -17,3 +17,4 @@
 * [Modele](content/models.md)
 * [Branch](content/branch.md)
 * [Tagi](content/tags.md)
+* [Dziennik zdarzeń](content/reflog.md)
