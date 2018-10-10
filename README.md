@@ -9,10 +9,14 @@
 
 ```js
 {
-  name:     "Łukasz Rybka",
-  email:    "infoShare Academy",
-  infoShare:  "https://infoshareacademy.com"
-  me: "http://www.dragonia.org.pl"
+    me: {
+        name: "Łukasz Rybka",
+        website: "http://www.dragonia.org.pl"
+    },
+    company: {
+        name: "infoShare Academy",
+        website: "https://infoshareacademy.com"
+    }
 }
 ```
 
