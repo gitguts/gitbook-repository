@@ -1,4 +1,4 @@
-# GIT GUTS: building repository from scratch
+# GIT GUTS: repozytorium
 
 
 
@@ -9,14 +9,13 @@
 
 ```js
 {
-    me: {
-        name: "Łukasz Rybka",
-        website: "http://www.dragonia.org.pl"
-    },
-    company: {
+    organizers: [{
         name: "infoShare Academy",
         website: "https://infoshareacademy.com"
-    }
+    }, {
+       name: "Cloud Corridor",
+       website: "https://www.cloudcorridor.com"
+   }]
 }
 ```
 
