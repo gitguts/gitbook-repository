@@ -4,9 +4,6 @@
 
 
 
-##### ![](/assets/logo_infoshare.png)
-
-
 ```js
 {
     organizers: [{
